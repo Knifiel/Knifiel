@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Knifiel
 - 👀 I’m interested in games, anime, manga, sci-fi and fantasy books, and programming.
-- 🌱 I’m currently learning full-stack web development. Slowly and painfully. Cybernatic brain augmentations couldn't come sooner.
+- 🌱 I’m currently learning full-stack web development. Slowly and painfully. Cybernetic brain augmentations couldn't come sooner.
 - 📫 How to reach me: knifiel@gmail.com or Discord Knifiel#7379. Do note that i may not answer for a long time.
 
 <!---
