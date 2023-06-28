@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Knifiel. I'm a web developer in React and Vue.
+- 👋 Hi, I’m @Knifiel. I'm a web developer.
 - 👀 I’m interested in games, anime, manga, sci-fi and fantasy books, programming.
 - 📫 How to reach me: ilia.cherkasov.89@gmail.com. 
 
